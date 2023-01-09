@@ -9,5 +9,8 @@ it throws error if disease is not available in the database
 checkPatient() --> to diagnose the disease.
 
 I have created the UI design Class called DiseaseUI to display the menu
+I have created a DisplayMenu() tpo display the contents on the console
 in that class i have created three helper functions to add the disease,to add symptoms and to check the patient
 
+Finally i have created a class cllaed MedicalResearch which is conataining the main method and that will be the Entry point of the Application.
+in that main method i have called the method DisplayMenu().

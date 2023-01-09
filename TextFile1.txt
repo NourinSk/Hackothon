@@ -1,0 +1,13 @@
+﻿
+I have created a Entity class called Disease;
+
+I have created a repository class called DiseasesManager to add the Disease,add the Symptoms to the Disease and to chech the patient
+In this DiseasesManager i have created thre function
+addDisease() --> to add the Disease
+addSymptons()--> to add the Symptoms to the Disease avaialble
+it throws error if disease is not available in the database
+checkPatient() --> to diagnose the disease.
+
+I have created the UI design Class called DiseaseUI to display the menu
+in that class i have created three helper functions to add the disease,to add symptoms and to check the patient
+
